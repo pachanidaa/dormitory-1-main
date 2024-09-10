@@ -1,0 +1,48 @@
+
+body {
+  margin: 0;
+}
+.login {
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+  /* overflow: scroll; */
+  background-color: #192545;
+}
+.login-admin {
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+  /* overflow: scroll; */
+  background-color: #021365;
+}
+.header {
+  text-align: center;
+}
+.card-login {
+  overflow-y: scroll;
+  width: 70%;
+  height: auto;
+  max-height: 550px;
+}
+.images-logo {
+  width: 100%;
+  height: auto;
+  max-height: 250px;
+  object-fit: contain;
+}
+.images-admin-logo {
+  width: 100%;
+  height: auto;
+  max-height: 250px;
+  object-fit: contain;
+}
+.login-form-button {
+  width: 100%;
+  background-color: #294984; /* สีพื้นหลังของปุ่ม student */
+}
+.admin-form-button {
+  width: 100%;
+  background-color: #14288a; /* สีพื้นหลังของปุ่ม admin */
+}
+
